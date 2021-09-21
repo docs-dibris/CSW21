@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the Poster Session of the 2^{nd} Computer Science Workshop
 
 You can use the [editor on GitHub](https://github.com/docs-dibris/CSW21/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

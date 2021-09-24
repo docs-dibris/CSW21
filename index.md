@@ -16,3 +16,13 @@
 - Author #14 [Title Poster #14](https://github.com/docs-dibris/CSW21/blob/gh-pages/Poster/a0poster.pdf)
 - Author #15 [Title Poster #15](https://github.com/docs-dibris/CSW21/blob/gh-pages/Poster/a0poster.pdf)
 - Author #16 [Title Poster #16](https://github.com/docs-dibris/CSW21/blob/gh-pages/Poster/a0poster.pdf)
+
+
+<script
+  async
+  src="https://utteranc.es/client.js"
+  repo="<OWNER>/<NAME>"
+  issue-term="title"
+  theme="github-light"
+  crossorigin="anonymous"
+></script>

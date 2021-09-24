@@ -4,7 +4,7 @@
 
 <head>
   
-<iframe src="/CSW21/Poster/a0poster.pdf" width="1000" height="1000" type="application/pdf"/iframe>
+<iframe src="/CSW21/Poster/a0poster.pdf" width="1000" height="1000" type="application/pdf" />
 
 <script src="https://utteranc.es/client.js" 
 repo="docs-dibris/CSW21" 

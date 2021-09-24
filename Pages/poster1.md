@@ -8,7 +8,7 @@
 
 <head>
   <!-- <iframe src="/CSW21/Poster/a0poster.pdf" width="1000" height="1000" type="application/pdf"></iframe> -->
-<iframe src="https://docs.google.com/gview?embedded=true&url=http://docs-dibris.github.io/CSW21/Poster/a0poster.pdf" width="1000" height="1000" type="application/pdf"></iframe>
+<iframe src="https://docs.google.com/gview?embedded=true&url=https://docs-dibris.github.io/CSW21/Poster/a0poster.pdf" width="1000" height="1000" type="application/pdf"></iframe>
 
   <p>If you want to download the poster, please <a href="/CSW21/Poster/a0poster.pdf" download="/CSW21/Poster/a0poster.pdf">click here</a> </p>  
   

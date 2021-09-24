@@ -2,7 +2,7 @@
 ### Author #1
 ### Title #1
 
-<object data="/CSW21/Poster/poster1.pdf" width="1000" height="1000" type="application/pdf"></object>
+<object data="/CSW21/Poster/a0poster.pdf" width="1000" height="1000" type="application/pdf"></object>
 
 
 

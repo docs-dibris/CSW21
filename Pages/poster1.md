@@ -2,10 +2,11 @@
 ### Author #1
 ### Title #1
 
-<head>
 <center>
   <p>If the poster does not load, please refresh!</p>
  </center>
+
+<head>
   <!-- <iframe src="/CSW21/Poster/a0poster.pdf" width="1000" height="1000" type="application/pdf"></iframe> -->
 <iframe src="https://docs.google.com/gview?embedded=true&url=http://docs-dibris.github.io/CSW21/Poster/a0poster.pdf" width="1000" height="1000" type="application/pdf"></iframe>
 
@@ -20,4 +21,4 @@ crossorigin="anonymous"
 async>
 </script>
 
-</head>a
+</head>

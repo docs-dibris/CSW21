@@ -1,13 +1,9 @@
-layout: page
-title: "poster1"
-permalink: /CSW21/Poster/poster1
-
 ## Poster #1
 ### Author #1
 ### Title #1
 
 <script type="text/javascript">
-    document.location = "/Poster/a0poster.pdf"
+    document.location = "/CSW21/Poster/a0poster.pdf"
 </script>
 
 

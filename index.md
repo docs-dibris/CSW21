@@ -18,11 +18,10 @@
 - Author #16 [Title Poster #16](https://github.com/docs-dibris/CSW21/blob/gh-pages/Poster/a0poster.pdf)
 
 
-<script
-  async
-  src="https://utteranc.es/client.js"
-  repo="dcs-dibris/CSW21"
-  issue-term="title"
-  theme="github-light"
-  crossorigin="anonymous"
-></script>
+<script src="https://utteranc.es/client.js"
+        repo="docs-dibris/CSW21"
+        issue-term="title"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

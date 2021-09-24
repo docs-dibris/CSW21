@@ -1,3 +1,6 @@
+layout: page
+title: "poster1"
+permalink: /CSW21/Poster/poster1
 
 ## Poster #1
 ### Author #1

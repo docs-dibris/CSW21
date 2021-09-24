@@ -1,6 +1,6 @@
 <!-- ![Tux, the Linux mascot](/Images/poster_session_2160x1080.png) -->
 
-- Author #1 [Title Poster #1](/Pages/poster1.md)
+- Author #1 [Title Poster #1](/CSW21/Pages/poster1.md)
 - Author #2 [Title Poster #2](https://github.com/docs-dibris/CSW21/blob/gh-pages/Poster/a0poster.pdf)
 - Author #3 [Title Poster #3](https://github.com/docs-dibris/CSW21/blob/gh-pages/Poster/a0poster.pdf)
 - Author #4 [Title Poster #4](https://github.com/docs-dibris/CSW21/blob/gh-pages/Poster/a0poster.pdf)

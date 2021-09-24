@@ -2,9 +2,8 @@
 ### Author #1
 ### Title #1
 
-<script type="text/javascript">
-    document.location = "/CSW21/Poster/a0poster.pdf"
-</script>
+<object data="/CSW21/Poster/poster1.pdf" width="1000" height="1000" type="application/pdf"></object>
+
 
 
 <

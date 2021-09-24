@@ -21,7 +21,7 @@
 <script
   async
   src="https://utteranc.es/client.js"
-  repo="<OWNER>/<NAME>"
+  repo="dcs-dibris/CSW21"
   issue-term="title"
   theme="github-light"
   crossorigin="anonymous"

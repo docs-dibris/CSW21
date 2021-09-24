@@ -20,7 +20,7 @@
 
 <script src="https://utteranc.es/client.js"
         repo="docs-dibris/CSW21"
-        issue-term="title"
+        issue-term="poster"
         theme="github-light"
         crossorigin="anonymous"
         async>

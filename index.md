@@ -1,6 +1,6 @@
 ![Tux, the Linux mascot](http://phd.dibris.unige.it/csse/images/poster_session_2160x1080.png)
 
-- Author #1 [Title Poster #1](https://github.com/docs-dibris/CSW21/blob/gh-pages/Poster/a0poster.pdf)
+- Author #1 [Title Poster #1](/Poster/a0poster.pdf)
 - Author #2 [Title Poster #2](https://github.com/docs-dibris/CSW21/blob/gh-pages/Poster/a0poster.pdf)
 - Author #3 [Title Poster #3](https://github.com/docs-dibris/CSW21/blob/gh-pages/Poster/a0poster.pdf)
 - Author #4 [Title Poster #4](https://github.com/docs-dibris/CSW21/blob/gh-pages/Poster/a0poster.pdf)

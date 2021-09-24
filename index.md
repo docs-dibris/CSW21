@@ -1,5 +1,4 @@
-[comment]: ## Welcome to the Poster Session of the 2<sup>nd</sup> Computer Science Workshop
-
+![Tux, the Linux mascot](http://phd.dibris.unige.it/csse/images/poster_session_2160x1080.png)
 
 - Author #1 [Title Poster #1](https://github.com/docs-dibris/CSW21/blob/gh-pages/Poster/a0poster.pdf)
 - Author #2 [Title Poster #2](https://github.com/docs-dibris/CSW21/blob/gh-pages/Poster/a0poster.pdf)

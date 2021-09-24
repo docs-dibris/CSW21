@@ -1,4 +1,4 @@
-![Tux, the Linux mascot](/Images/poster_session_2160x1080.png)
+<!-- ![Tux, the Linux mascot](/Images/poster_session_2160x1080.png) -->
 
 - Author #1 [Title Poster #1](/Poster/a0poster.pdf)
 - Author #2 [Title Poster #2](https://github.com/docs-dibris/CSW21/blob/gh-pages/Poster/a0poster.pdf)

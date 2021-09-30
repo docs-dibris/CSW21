@@ -2,8 +2,8 @@
 
  <!-- - Anna Napoli, [Climatic change projections and Aerosol indirect effects in complex orography area](/CSW21/Pages/poster1) -->
 - Anna Napoli, [Climatic change projections and Aerosol indirect effects in complex orography area](/CSW21/Pages/poster01)
-- Author #2 [Title Poster #3](/CSW21/Pages/poster02)
-- Author #3 [Title Poster #3](/CSW21/Pages/poster03)
+- Riccardo Bianchini [Sharing coeffects for Java-like languages](/CSW21/Pages/poster02)
+- Razeen Hussain [Improving visual experience in virtual reality systems through foveated depth-of-field](/CSW21/Pages/poster03)
 - Author #4 [Title Poster #4](/CSW21/Pages/poster04)
 - Author #5 [Title Poster #5](/CSW21/Pages/poster05)
 - Author #6 [Title Poster #6](/CSW21/Pages/poster06)

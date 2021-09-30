@@ -1,6 +1,5 @@
-## Poster #1
+##  Climatic change projections and Aerosol indirect effects in complex orography area
 ### Anna Napoli
-###  Climatic change projections and Aerosol indirect effects in complex orography area
 
 <center>
   <p>If the poster does not load, please refresh!</p>
@@ -15,7 +14,7 @@
   
 <script src="https://utteranc.es/client.js" 
 repo="docs-dibris/CSW21" 
-issue-term="poster1" 
+issue-term="poster15" 
 theme="github-light" 
 crossorigin="anonymous" 
 async>

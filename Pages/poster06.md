@@ -1,6 +1,6 @@
-## Poster #16
-### Author #16
-### Title #16
+## Poster #15
+### Author #15
+### Title #15
 
 <center>
   <p>If the poster does not load, please refresh!</p>
@@ -15,7 +15,7 @@
   
 <script src="https://utteranc.es/client.js" 
 repo="docs-dibris/CSW21" 
-issue-term="poster16" 
+issue-term="poster15" 
 theme="github-light" 
 crossorigin="anonymous" 
 async>

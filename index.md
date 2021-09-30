@@ -1,6 +1,6 @@
 <!-- ![Tux, the Linux mascot](/Images/poster_session_2160x1080.png) -->
 
- - Author #1 [Title Poster #1](/CSW21/Pages/poster1) 
+ - Anna Napoli, [Climatic change projections and Aerosol indirect effects in complex orography area](/CSW21/Pages/poster1) 
 - Author #2 [Title Poster #2](/CSW21/Pages/poster2)
 - Author #3 [Title Poster #3](/CSW21/Pages/poster3)
 - Author #4 [Title Poster #4](/CSW21/Pages/poster4)

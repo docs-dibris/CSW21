@@ -1,6 +1,6 @@
 <!-- ![Tux, the Linux mascot](/Images/poster_session_2160x1080.png) -->
 
-- Author #1 [Title Poster #1](/CSW21/Pages/poster1)
+<!-- - Author #1 [Title Poster #1](/CSW21/Pages/poster1) -->
 - Author #2 [Title Poster #2](/CSW21/Pages/poster2)
 - Author #3 [Title Poster #3](/CSW21/Pages/poster3)
 - Author #4 [Title Poster #4](/CSW21/Pages/poster4)
@@ -14,8 +14,8 @@
 - Author #12 [Title Poster #12](/CSW21/Pages/poster12)
 - Author #13 [Title Poster #13](/CSW21/Pages/poster13)
 - Author #14 [Title Poster #14](/CSW21/Pages/poster14)
-- Author #15 [Title Poster #15](/CSW21/Pages/poster15)
-- Author #16 [Title Poster #16](/CSW21/Pages/poster16)
+<!-- - Author #15 [Title Poster #15](/CSW21/Pages/poster15) -->
+<!-- - Author #16 [Title Poster #16](/CSW21/Pages/poster16) -->
 
 <!--
 <script src="https://utteranc.es/client.js"

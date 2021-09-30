@@ -1,6 +1,5 @@
-## Poster #15
-### Author #15
-### Title #15
+## Improving visual experience in virtual reality systems through foveated depth-of-field
+### Razeen Hussain
 
 <center>
   <p>If the poster does not load, please refresh!</p>

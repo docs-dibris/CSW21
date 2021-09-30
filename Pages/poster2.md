@@ -1,7 +1,6 @@
-<center>
 ##  Climatic change projections and Aerosol indirect effects in complex orography area
 ### Anna Napoli
-</center>
+
 
 <center>
   <p>If the poster does not load, please refresh!</p>

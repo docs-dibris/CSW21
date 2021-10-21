@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: Poster Session of the 2nd Computer Science Workshop @ DIBRIS. 
-description: [Con il contributo dell’Università degli studi di Genova. \\ Welcome to the virtual edition of the poster session of the 2nd Computer Science Workshop @ DIBRIS! Feel free to navigate over the different posters and comment! Enjoy]
+description: [Con il contributo dell’Università degli studi di Genova. <br> Welcome to the virtual edition of the poster session of the 2nd Computer Science Workshop @ DIBRIS! Feel free to navigate over the different posters and comment! Enjoy]
 background-image: url('/Images/poster_session_2160x1080.png')
 
 html:
